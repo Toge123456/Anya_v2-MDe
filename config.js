@@ -63,12 +63,12 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "✪𝘀𝗽𝗮𝗰𝗲➳𝗺𝗮𝗿𝗸𝗲𝘁✦.         𝐕𝐄𝐍𝐓𝐄 𝐃𝐄 𝐂𝐎𝐌𝐏𝐓𝐄𝐒", 
-  author: process.env.Author || "Lionel 👻",
-  packname: process.env.PackName || "Lionel 👻",
+  botname: process.env.BotName || "𝙶𝙾𝙹𝙾 𝚂𝙰𝚃𝙾𝚁𝚄", 
+  author: process.env.Author || "𝔏𝔦𝔬𝔫𝔢𝔩 👻",
+  packname: process.env.PackName || "𝔏𝔦𝔬𝔫𝔢𝔩 👻",
   socialLink: process.env.Web || "https://github.com/Toge123456",
-  footer: process.env.Footer || "𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀",
-  prefa: process.env.Prefix || ['&'],
+  footer: process.env.Footer || "𝙶𝙾𝙹𝙾 𝚂𝙰𝚃𝙾𝚁𝚄",
+  prefa: process.env.Prefix || ['.'],
   themeemoji: process.env.ThemeEmoji || "✨",
   ownername: process.env.Owner_Name || "Lionel 👻",
   ownernumber: process.env.Owner_Number || "24105114159",
@@ -114,10 +114,10 @@ global.prefa = process.env.Prefix || ['-']
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
 global.ownername = process.env.Owner_Name || "Pika~Kun" 
 global.ownernumber = process.env.Owner_Number || "916900904828" 
-global.adress = process.env.Continent || "Asia, India, Assam" 
+global.adress = process.env.Continent || "Afrique, Gabon, Libreville" 
 global.timezone = process.env.TimeZone || "Asia/Kolkata" 
 global.instagramId = process.env.Insta || "8.08_only_mine" 
-global.email = process.env.Email_Id || "example@example.com" 
+global.email = process.env.Email_Id || "toge3260@hotmail.com" 
   
 //--------------- Tip ----------------\\
 global.Tips = [
